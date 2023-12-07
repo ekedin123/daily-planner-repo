@@ -13,7 +13,7 @@ this project runs as a web application which can be accessed through any standar
 
 the user can populate each time block with any information they want to schedule for any specific hour of the day. then the user can elect to save that scheduled information until they add or change that information by clicking on the save button for each time block. the timer will display the current local time, and each time block is color coordinated to display what time and event is currently happening, already happened, or going to happen throughout the day.
 
-link to deployed website:
+link to deployed website: https://ekedin123.github.io/daily-planner-repo/
 
 ![screenshot of web function](./assets/images/planner%20screenshot.png)
 
